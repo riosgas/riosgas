@@ -1,6 +1,6 @@
 # 😃 About me:
 
-👋 Hi! My name is Gastón, I'm a 28 year old Web developer from Argentina.
+<h2 align="center">👋 Hi! My name is Gastón, I'm a 28 year old Web developer from Argentina.</h2>
 
 
 # 💻 Tech Stack:
