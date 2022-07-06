@@ -2,7 +2,7 @@
 # 😃 About me:
 --->
 <h2 align="center">👋 Hi! My name is Gastón, I'm a 28 year old web developer from Argentina.</h2>
-<h2> </h2>
+<h3 align="center">I am passionate about the world of technology, I am always aware of the latest releases and news. Currently I am looking for my first job as a web developer and meanwhile I continue learning new technologies to make higher quality projects.</h3>
 
 <!---
 # 💻 Tech Stack:
