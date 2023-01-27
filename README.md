@@ -14,9 +14,10 @@
 <h2 align="center" >📞Contact me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/gaston-rios/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png" height="30" width="30" /></a>
+<!---
 <a href="https://wa.link/g9xj61" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/whatsapp_tile_logo_icon_169898.png" height="30" width="30" /></a>
 </p>
-
+--->
 <!---
 riosgas/riosgas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
