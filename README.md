@@ -1,8 +1,7 @@
 <!---
 # 😃 About me:
 --->
-<h2 align="center">👋 Hi! My name is Gastón, I'm a web developer from Argentina.</h2>
-<h3 align="center">I am passionate about the world of technology.</h3>
+<h2 align="center">👋 Hi! My name is Gastón, I'm a web developer</h2>
 
 <!---
 # 💻 Tech Stack:
